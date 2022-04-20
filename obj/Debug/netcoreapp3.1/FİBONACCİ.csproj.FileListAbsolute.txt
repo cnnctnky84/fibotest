@@ -1,0 +1,13 @@
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.csprojAssemblyReference.cache
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.AssemblyInfoInputs.cache
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.AssemblyInfo.cs
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.csproj.CoreCompileInputs.cache
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.exe
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.deps.json
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.runtimeconfig.json
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.runtimeconfig.dev.json
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.dll
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\bin\Debug\netcoreapp3.1\FİBONACCİ.pdb
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.dll
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.pdb
+C:\Users\snszd\Desktop\SON.C SHRP\FİBONACCİ\obj\Debug\netcoreapp3.1\FİBONACCİ.genruntimeconfig.cache
